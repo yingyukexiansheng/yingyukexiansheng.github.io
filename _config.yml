@@ -13,7 +13,7 @@ baseurl: D:/work/study/blog/yingyukexiansheng.github.io
 sass:
   sass_dir: _sass
 
-permalink: D:/work/study/blog/yingyukexiansheng.github.io/_posts/:title/
+permalink: /_posts/:title/
 texture:
   title: study
   tagline: junxiansheng
