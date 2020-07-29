@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "guidet"
+description: An example post which shows code rendering.
+date:   2020-07-28 21:03:36 +0530
+---
+
 # 引导语的算法生成
 
 ## 1. 了解教学部目前推进引导语的进展
